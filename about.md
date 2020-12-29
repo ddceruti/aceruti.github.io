@@ -4,26 +4,21 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! Nice to meet you.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+My name is Amedeo Ceruti. I am a chemical engineer from Barcelona, Spain. I am currently studying at [TU Munich](https://www.tum.de/), Germany and working on my master thesis in collaboration with the Process Systems Engineering Chair, [SVT](https://www.maschinenbau.rwth-aachen.de/cms/Maschinenbau/Die-Fakultaet/Institute-und-Lehrstuehle/Uebersicht-aller-Institute/~dfoy/AVT-SVT/?lidx=1), of [RWTH Aachen Universtiy](https://www.rwth-aachen.de/cms/~a/root/?lidx=1).
 
-* [Hyde](https://hyde.getpoole.com)
-* [Lanyon](https://lanyon.getpoole.com)
+My main interests are models of chemical processes: first-principle, data-driven or hybrid ones. Related topics which interest me are the optimization and application of these chemical processes towards more sustainable and circular production concepts. I enjoy playing water polo and reading in my free time. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+My main goal for the near future is working towards a PhD in a related topic.
 
-## Setup
+### This website is currently under development!
 
-Some fun facts about the setup of this project include:
+I will be publishing some blogs about my current and past research, as well as other posts about unrelated topics which I am interested in.
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+### Where to find me
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Feel free to contact me on [LinkedIn](https://www.rwth-aachen.de/cms/~a/root/?lidx=1) or [Twitter](https://twitter.com/AmedeoCeruti). You can also shoot me an email at [amedeopceruti@gmail.com](mailto:amedeopceruti@gmail.com).
 
-Thanks for reading!
