@@ -1,8 +1,8 @@
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://hyde.getpoole.com
+title:            Amedeo Ceruti
+tagline:          'Chemical Engineer with some CS'
+description:      'Personal webpage of Amedeo Ceruti. Chemical Engineer from Barcelona, Spain, currently in Germany. Reach me at <a href="https://twitter.com/amedeoceruti" target="_blank">@AmedeoCeruti</a>.'
+url:              https://ddceruti.github.io/
 baseurl:          ''
 paginate:         5
 
