@@ -8,8 +8,8 @@ paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Amedeo Ceruti'
+  url:            https://twitter.com/AmedeoCeruti
 
 # Gems
 plugins:
