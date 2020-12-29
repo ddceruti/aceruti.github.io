@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Home
+title: First post
 ---
 
 Nice to meet you! My name is Amedeo Ceruti. I am a chemical engineer from Barcelona, Spain. I am currently studying at [TU Munich](https://www.tum.de/), Germany and working on my master thesis in collaboration with the Process Systems Engineering Chair, [SVT](https://www.maschinenbau.rwth-aachen.de/cms/Maschinenbau/Die-Fakultaet/Institute-und-Lehrstuehle/Uebersicht-aller-Institute/~dfoy/AVT-SVT/?lidx=1), of [RWTH Aachen Universtiy](https://www.rwth-aachen.de/cms/~a/root/?lidx=1).
