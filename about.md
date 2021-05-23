@@ -12,7 +12,7 @@ My name is Amedeo Ceruti. I am a chemical engineer from Barcelona, Spain. I am c
 
 My main interests are models of chemical processes: first-principle, data-driven or hybrid ones. Related topics which interest me are the optimization and application of these chemical processes towards more sustainable and circular production concepts. I enjoy playing water polo and reading in my free time. 
 
-My main goal for the near future is working towards a PhD in a related topic.
+My main goal for the near future is working towards a PhD in a related topic and a more active engagement in selected communities.
 
 ### This website is currently under development!
 
