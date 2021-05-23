@@ -16,7 +16,7 @@ My main goal for the near future is working towards a PhD in a related topic.
 
 ### This website is currently under development!
 
-I will be publishing some blogs about my current and past research, as well as other posts about unrelated topics which I am interested in.
+I will be publishing some blogs about my current and past research, as well as other posts about unrelated topics which I am interested in, including essays on political topics.
 
 ### Where to find me
 
